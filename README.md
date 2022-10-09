@@ -1,2 +1,2 @@
 # TST
-The first version
+runing `python3 train.py`
