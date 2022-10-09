@@ -1,2 +1,2 @@
 # TST
-runing `python3 train.py`
+running `python3 train.py`
