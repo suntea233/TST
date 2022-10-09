@@ -1,4 +1,4 @@
-from diff.IJCNN.Dataset import SSTDataset
+from IJCNN.Dataset import SSTDataset
 from model import Encoder,Decoder
 from diffusion import Diffusion
 
